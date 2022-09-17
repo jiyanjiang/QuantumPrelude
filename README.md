@@ -5,6 +5,8 @@ QuantumPrelude
 
 - [PDF 在此](https://github.com/jiyanjiang/QuantumPrelude/blob/master/QuantumPrelude.pdf)
 
-- [科学套子](http://site.douban.com/223228/)
+- [物理世界](https://github.com/jiyanjiang/My_Physics_Book)
 
-@季燕江
+
+
+Wechat: @ianwest
